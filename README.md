@@ -44,6 +44,7 @@
 
 ### 🎨 Front-end
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo" width="50" />
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,mui,html,css" />
 </p>
 
