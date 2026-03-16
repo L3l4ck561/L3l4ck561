@@ -4,13 +4,12 @@
 </p>
 -->
 <h1 align="center">👋 Olá! Eu sou o Carlos</h1>
-<h3 align="center">💻 Desenvolvedor Full Stack | QA | Automação</h3>
+<h3 align="center">💻 Full Stack Developer | QA & Test Automation | Custom Software Development</h3>
 
 ---
 
 ## 🚀 Sobre mim
 
-🎓 Técnico em Desenvolvimento de Sistemas (SENAI-SP)  
 💡 Focado em desenvolvimento web, mobile e testes automatizados  
 🔍 Buscando sempre escrever código limpo, organizado e escalável  
 
@@ -45,12 +44,14 @@
 ### 🎨 Front-end
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Tkinter" width="50"/>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,mui,html,css" />
 </p>
 
 ### ⚙️ Back-end
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,flask" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,flask,express" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" alt="REST API" width="50"/>
 </p>
 
 ### 🗄️ Banco de Dados
@@ -61,6 +62,12 @@
 ### 🧪 Testes
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cypress,jest,selenium,postman" />
+</p>
+
+### 🤖 Automação e Dados
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 </p>
 
 <!--
