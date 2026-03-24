@@ -9,8 +9,7 @@
 ---
 
 ## 🚀 Sobre mim
-
-💡 Focado em desenvolvimento web, mobile e testes automatizados  
+ 
 🔍 Buscando sempre escrever código limpo, organizado e escalável  
 
 <p align="center">
