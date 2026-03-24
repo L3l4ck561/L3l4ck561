@@ -20,7 +20,7 @@
   <a href="https://linkedin.com/in/carlos-araújo-6447653a6">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://l3l4ck561.github.io/bs_csonline/">
+  <a href="https://carlosgabriel.vercel.app/">
     <img src="https://img.shields.io/badge/Curriculo-green?style=for-the-badge"/>
   </a>
 </p>
