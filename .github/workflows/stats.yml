@@ -18,11 +18,11 @@ jobs:
 
       - name: Generate stats
         run: |
-          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+          curl --fail -L \
           -o assets/github-stats.svg \
           "https://github-readme-stats.vercel.app/api?username=L3l4ck561&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
 
-          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+          curl --fail -L \
           -o assets/top-langs.svg \
           "https://github-readme-stats.vercel.app/api/top-langs/?username=L3l4ck561&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
 
