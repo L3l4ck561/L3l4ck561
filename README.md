@@ -47,15 +47,12 @@
 
 ### 🎨 Front-end
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Tkinter" width="50"/>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,mui,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,mui,html,css,python,nextjs" />
 </p>
 
 ### ⚙️ Back-end
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,nodejs,flask,express" />
-  <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" alt="REST API" width="50"/>
 </p>
 
 ### 🗄️ Banco de Dados
@@ -70,9 +67,7 @@
 
 ### 🤖 Automação e Dados
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://skillicons.dev/icons?i=arduino,python" />
 </p>
 
 <!--
