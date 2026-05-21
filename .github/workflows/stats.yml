@@ -19,12 +19,14 @@ jobs:
       - name: Generate stats
         run: |
           curl --fail -L \
+          -A "Mozilla/5.0" \
           -o assets/github-stats.svg \
-          "https://github-readme-stats-2f38y9d45-l3l4ck561s-projects.vercel.app/api?username=L3l4ck561&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+          "https://github-readme-stats-zeta-seven-42.vercel.app/api?username=L3l4ck561&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
 
           curl --fail -L \
-          -o assets/top-langs.svg \
-          "https://github-readme-stats-2f38y9d45-l3l4ck561s-projects.vercel.app/api/top-langs/?username=L3l4ck561&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+            -A "Mozilla/5.0" \
+            -o assets/top-langs.svg \
+            "https://github-readme-stats-zeta-seven-42.vercel.app/api/top-langs/?username=L3l4ck561&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
 
       - name: Commit files
         run: |
