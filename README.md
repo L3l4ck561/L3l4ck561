@@ -42,7 +42,7 @@
 
 ### 💻 Linguagens
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,typescript" />
 </p>
 
 ### 🎨 Front-end
@@ -67,7 +67,7 @@
 
 ### 🤖 Automação e Dados
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,python" />
+  <img src="https://skillicons.dev/icons?i=arduino,python,docker" />
 </p>
 
 <!--
