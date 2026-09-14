@@ -47,17 +47,17 @@
 
 ### 🎨 Front-end
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,mui,html,css,python,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,mui,html,css,nextjs" />
 </p>
 
 ### ⚙️ Back-end
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,flask,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,express" />
 </p>
 
 ### 🗄️ Banco de Dados
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
 </p>
 
 ### 🧪 Testes
@@ -67,10 +67,9 @@
 
 ### 🤖 Automação e Dados
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,python,docker" />
+  <img src="https://skillicons.dev/icons?i=arduino,docker,cloudflare" />
 </p>
 
-<!--
 ## 🐍 Contribuições
 
 <p align="center">
@@ -78,4 +77,3 @@
 </p>
 
 ---
--->
