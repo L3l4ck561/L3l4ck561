@@ -4,7 +4,7 @@
 </p>
 -->
 <h1 align="center">👋 Olá! Eu sou o Carlos</h1>
-<h3 align="center">💻 Full Stack Developer | QA & Test Automation | Custom Software Development</h3>
+<h3 align="center">💻 Full Stack Developer | Software Engineering | Data Science / ML</h3>
 
 ---
 
