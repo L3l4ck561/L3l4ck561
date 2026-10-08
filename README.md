@@ -3,72 +3,45 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Carlos%20Araújo&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 -->
-<h1 align="center">👋 Olá! Eu sou o Carlos</h1>
+<h1 align="center">💪😎 Olá! Eu sou o Carlos</h1>
 <h3 align="center">💻 Full Stack Developer | Software Engineering | Data Science / ML</h3>
 
 ---
 
-## 🚀 Sobre mim
+### 🚀 Sobre mim
  
-🔍 Buscando sempre escrever código limpo, organizado e escalável  
+Apaixonado por criar experiências digitais. 👀caminhando devagar, mas sempre praticando 🤌
 
-<p align="center">
-  <a href="mailto:ti.carlos.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/carlos-araújo-6447653a6">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://carlosgabriel.packlor.com/">
-    <img src="https://img.shields.io/badge/Curriculo-green?style=for-the-badge"/>
-  </a>
+<br>
+
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,typescript" />
 </p>
-
-## 📊 Estatísticas
-
-<p align="center">
-  <!-- <img height="180em" src="https://github-readme-stats-liard-sigma-15.vercel.app/api?username=L3l4ck561&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-liard-sigma-15.vercel.app/api/top-langs/?username=L3l4ck561&layout=compact&theme=tokyonight&hide_border=true"/> -->
+ <p align="center">
   
   <img height="180em" src="./assets/github-stats.svg"/>
   <img height="180em" src="./assets/top-langs.svg"/>
 
-  <!--<img src="./github-metrics.svg" />-->
+  <!-- <img src="./github-metrics.svg" /> -->
+</p>
+<p align="left">
+  <a href="https://carlosgabriel.packlor.com/">
+    <img src="https://img.shields.io/badge/Curriculo-green?style=for-the-badge"/>
+  </a>
+  <a href="mailto:ti.carlos.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
----
+<br>
 
-## 🛠️ Tech Stack
+## Web App 
 
-### 💻 Linguagens
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,typescript" />
-</p>
+Conheça um dos meus aplicativos: um web app de agenda 📅 desenvolvido para colocar em prática conceitos de Frontend, como gerenciamento de estado, componentização, persistência de dados local e interações dinâmicas.
 
-### 🎨 Front-end
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,mui,html,css,nextjs" />
-</p>
+* 🌐 [** Ver minha agenda? **](https://github.com/L3l4ck561/rotarotina/)
 
-### ⚙️ Back-end
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,express" />
-</p>
-
-### 🗄️ Banco de Dados
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
-</p>
-
-### 🧪 Testes
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cypress,jest,selenium,postman" />
-</p>
-
-### 🤖 Automação e Dados
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,docker,cloudflare" />
-</p>
+<br>
 
 ## 🐍 Contribuições
 
@@ -77,3 +50,17 @@
 </p>
 
 ---
+
+Obrigado por passar pelo meu perfil! 👋
+
+Aqui você vai encontrar meus projetos, experimentos e um pouco da minha jornada no mundo da programação.
+
+Se algum dos meus projetos for útil para você, sinta-se à vontade para deixar uma ⭐, abrir uma issue ou contribuir. Toda contribuição é muito bem-vinda!
+
+💻 Freelance / Serviços
+
+Estou disponível para trabalhos freelance, desenvolvimento de projetos e criação de soluções sob medida.
+
+Se você tem uma ideia, projeto ou precisa de ajuda com desenvolvimento, entre em contato comigo:
+
+📧 ti.carlos.dev@gmail.com
